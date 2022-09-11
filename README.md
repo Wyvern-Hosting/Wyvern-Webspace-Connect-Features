@@ -18,9 +18,9 @@ Features
 ``Other``
 - Yes, we have other pages such as the following:
 
-https://1.wyvernpanel.com
-https://0.wyvernpanel.com
-https://404.wyvernpanel.com
+https://1.wyvernpanel.com | 
+https://0.wyvernpanel.com | 
+https://404.wyvernpanel.com 
 
 all used for errors and implemeneted auto incase a site or sub-server is down.
 
